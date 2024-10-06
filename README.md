@@ -10,6 +10,7 @@ The database should mirror **Selected Aspects** of a commercial employment agenc
 - A python script to connect and send commands to the database
   - This will not work for public users as it needs to be run on a specific network.
 - 12 Normalised Entities
+- 5 Unique Views
 - An Entity Relationship (ER) Diagram
 - A Data Dictionary
 
